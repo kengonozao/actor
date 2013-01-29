@@ -12,3 +12,8 @@ dist
 /.classpath
 /.project
 /RUNNING_PID
+/.cache
+.settings
+.target
+bin
+public/images/question
